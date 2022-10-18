@@ -1,1 +1,3 @@
-
+---
+permalink: public/index.html
+---
